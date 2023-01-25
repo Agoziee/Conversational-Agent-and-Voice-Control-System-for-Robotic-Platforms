@@ -4,6 +4,7 @@ Conversational AI project developed using speech recognition technology, NLP tec
 The application is designed to run on most computer systems that have a microphone and a speaker.
 It can also function offline and isn't reliant on an internet connection.
 
+The application uses VOSK, an offline tool as the speech recognition engine
 To start the application, run the application file by running command - 'python main.py'.
 
 
